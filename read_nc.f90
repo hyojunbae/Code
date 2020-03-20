@@ -4,6 +4,8 @@
 ! gfortran read_nc.f90 -I. -I/usr/local/netcdf/413_gcc485/include -L/usr/local/netcdf/413_gcc485/lib -lnetcdf -lnetcdff
 !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 PROGRAM nc_read
+!!! hello world !!!!
+
 !!!! now test !!!
  use netcdf ! use netCDF libraries in fortran
  IMPLICIT NONE
