@@ -2,6 +2,7 @@
 ! For compile you should use this option in polar1 sever
 !
 ! gfortran read_nc.f90 -I. -I/usr/local/netcdf/413_gcc485/include -L/usr/local/netcdf/413_gcc485/lib -lnetcdf -lnetcdff
+! test comment
 !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 PROGRAM nc_read
 !!! hello world !!!!
